@@ -49,11 +49,12 @@ input {
 input#mc-embedded-subscribe {
     background: #FF3838!important;
     color: white!important;
-    width:10rem!important;
-    font-size:1.5rem!important;
-    padding-bottom: 0.7rem!important;
+    width: 10rem!important;
+    font-size: 1.5rem!important;
+    padding: 0.7rem!important;
     margin: 1.5rem auto 0!important;
     display: block!important;
+    height: 3.5rem!important;
 }
 
 label {
